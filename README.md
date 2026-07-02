@@ -1,1 +1,6 @@
-# My Git Practice Project 
+# My Git Practice Project
+
+
+
+Editing this README.md
+
